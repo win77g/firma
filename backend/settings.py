@@ -25,8 +25,8 @@ SECRET_KEY = 'b#r%!h1ht@866q$57q(fe!6d^brbjffc14xsyn%rm6os*jpb^)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = ['digspace.pythonanywhere.com']
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['digspace.pythonanywhere.com']
+#ALLOWED_HOSTS = []
 
 # Application definition
 
