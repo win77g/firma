@@ -1,0 +1,46 @@
+{"Home_Menu": {
+  "Home" : "Home",
+  "Templates" : "Templates",
+  "Custom development" : "Custom development",
+  "Our tehnology" : "Our tehnology",
+  "Our team" : "Our team",
+  "Contact" : "Contact"
+  
+},"Tehnology": {
+  "Tittle_tehnology" : "Our website creation technologies",
+  "Python_first" : "Python is the fastest growing programming language in the last few years. It is a high-level programming language.Today, Python is one of the most popular programming languages with a rapidly growing scope of applications..",
+  "Python_second" : "Python is actively promoted by Google - the first courses for developers on the Google for Education portal were dedicated to this programming language, and on the cloud hosting of Google App Engine applications,it was Python that became the first recommended language for use..",
+  "Python_three" : "Python is used by companies and projects such as",
+  "Angular" : "AngularJS (Angular.js, Angular) is a front-end JavaScript framework used for building single page applications and websites. Visually Angular SPA might look just like a regular page. So how to figure out it’s web app we are looking at? If when a message is received, new comments are made or we are submitting registration form there’s no need to reload the page to see updates, then we are dealing with one page application built with AngularJS or other JavaScript framework.",
+  "Angular_two" : "AngularJS is used by companies and projects such as", 
+  "Bootstrap" : "Bootstrap is the most popular CSS library for responsive website layouts. In simple words, Bootstrap makes sites compatible with mobile devices. Using Bootstrap guarantees not only that your site will be mobile-friendly, as Google requires, but that the site will be as compatible with most modern browsers as possible. Bootstrap was originally developed by Twitter, but is now an independent project."
+},"Development": {
+  "Tittle" : "We offer an effective, proven over the years method of phased development of sites with individual design.",
+  "first" : "Formation of technical specifications for individual design",
+  "second" : "Drawing custom page layout design",
+  "three" : "Editing",
+  "four" : "Layout",
+  "five" : "Filling content", 
+  "six" : "Testing and launching a project",
+  "tittle_down" : "This approach allows you to efficiently and quickly launch a website with an individual design."
+},"Contact": {
+  "Contact" : "Contact",
+  "Your name" : "Your Name",
+  "Your email" : "Your Email",
+  "Phone" : "Phone",
+  "Message" : "Message",
+  "Send Message" : "Send Message",
+  "Name should not be longer" : "Name should not be longer",
+  "characters." : "characters.",
+  "Now" : "Now",
+  "This field cannot be empty." : "This field cannot be empty.",
+  "Name must not be less than" : "Name must not be less than",
+  "Please enter a valid email." : "Please enter a valid email.",
+  "Email should not be longer" : "Email should not be longer",
+  "Email must not be less than" : "Email must not be less than",
+  "Phone should not be longer" : "Phone should not be longer",
+  "Phone must not be less than" : "Phone must not be less than",
+  "Message should not be longer" : "Message should not be longer",
+  "Message must not be less than" : "Message must not be less than"
+}
+}
