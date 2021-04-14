@@ -93,6 +93,8 @@ WSGI_APPLICATION = 'backend.wsgi.application'
 
 REST_FRAMEWORK = {
     'DEFAULT_FILTER_BACKENDS': ('django_filters.rest_framework.DjangoFilterBackend',),
+    'DEFAULT_AUTHENTICATION_CLASSES': [],
+    'DEFAULT_PERMISSION_CLASSES': [],
     # 'DEFAULT_PERMISSION_CLASSES':(
     #     # 'rest_framework.permissions.IsAdminUser',
         #   'rest_framework.permissions.AllowAny',
