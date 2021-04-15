@@ -24,6 +24,7 @@
   "six" : "Testování a zahájení projektu",
   "tittle_down" : "Tento přístup vám umožňuje efektivně a rychle spustit web s individuálním designem."
 },"Contact": {
+  "Alarm" : "Zpráva odeslána",
   "Contact" : "Kontakt",
   "Your name" : "Tvé jméno",
   "Your email" : "Tvůj e-mail",
@@ -31,7 +32,7 @@
   "Message" : "Zpráva",
   "Send Message" : "Poslat zprávu",
   "Name should not be longer" : "Jméno by neměl být delší",
-  "characters." : "postavy.",
+  "characters." : "znaky.",
   "Now" : "Nyní",
   "This field cannot be empty." : "Toto pole nesmí být prázdné.",
   "Name must not be less than" : "Jméno nesmí být menší než",
